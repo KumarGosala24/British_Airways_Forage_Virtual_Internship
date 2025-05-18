@@ -1,5 +1,5 @@
 
-![image alt](https://github.com/KumarGosala24/British_Airways_Forage_Virtual_Internship/blob/24f5b3c4da01f97303c566496f7ddcd8b96722f7/Image%20britsh%20airways.png)
+![image alt](https://banner2.cleanpng.com/20181113/iai/kisspng-british-airways-logo-oneworld-united-kingdom-qanta-wrl-ll-qts-1713923070015.webp)
 
 # British Airways virtual internship
 
