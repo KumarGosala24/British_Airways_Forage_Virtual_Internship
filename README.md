@@ -8,7 +8,9 @@ British Airways Data Science Virtual Internship via Forage
 ## Task 1
 
 •  Implemented web scraping techniques to extract unstructured customer reviews from [airlinequality.com](https://www.airlinequality.com/airline-reviews/british-airways) for British Airways.
+
 •  Performed sentiment analysis on collected reviews to classify and visualize positive and negative customer feedback.
+
 •  Designed an insightful PowerPoint presentation to showcase key findings, sentiment trends, and actionable insights from the analysis.
 
 ## Task 2 
