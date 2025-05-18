@@ -17,6 +17,6 @@ British Airways Data Science Virtual Internship via Forage
 
 •  Built a classification model to predict customer buying behavior and presented insights through a PowerPoint presentation.
 
-# Program link  [Forage](https://www.theforage.com/simulations/british-airways/data-science-yqoz)  
-# Completion certificate link [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_jEFAh8ihhQaCfxfoy_1747498386077_completion_certificate.pdf)  
+### Program link  [Forage](https://www.theforage.com/simulations/british-airways/data-science-yqoz)  
+### Completion Certificate link [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_jEFAh8ihhQaCfxfoy_1747498386077_completion_certificate.pdf)  
  
